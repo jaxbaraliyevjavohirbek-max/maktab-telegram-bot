@@ -11,7 +11,7 @@ from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.dispatcher.filters import Command, Text
 
-TOKEN = "8657817961:AAGHhYdMP6jgF101Vh1WB101RSBXtkMvow8"
+TOKEN = "8657817961:AAEwbGSW2GSYszQD1NoGIIVaRdtKEFwlIXc"
 
 bot = Bot(token=TOKEN)
 storage = MemoryStorage()
